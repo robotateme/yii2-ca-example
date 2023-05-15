@@ -1,5 +1,5 @@
 {
-    "name": "grandway/backend-admin",
+    "name": "ca_example/backend-admin",
     "type": "project",
     "minimum-stability": "stable",
     "require-dev": {

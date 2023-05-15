@@ -25,7 +25,7 @@ class AdminCreateForm extends Model
      *      title="Admin email",
      *      property="email",
      *      type="string",
-     *      example="admin@grandway.test"
+     *      example="admin@example.test"
      * )
      */
     public ?string $email = null;

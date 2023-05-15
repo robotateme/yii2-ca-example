@@ -13,7 +13,7 @@ use yii\rest\Controller;
  *         description="Admin REST API documentation",
  *         termsOfService="http://swagger.io/terms/",
  *         @OA\Contact(
- *             email="administarator@grandway.loc"
+ *             email="administarator@test.loc"
  *         ),
  *     ),
  *     @OA\Server(
