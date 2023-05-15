@@ -12,7 +12,7 @@ return [
         [
             'class' => UrlRule::class,
             'pluralize' => false,
-            'prefix' => 'api/v1/grandpay',
+            'prefix' => 'api/v1/pay',
             'controller' => ['users'],
             'extraPatterns' => [
                 'GET' => 'index',
