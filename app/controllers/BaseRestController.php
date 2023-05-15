@@ -9,8 +9,8 @@ use yii\rest\Controller;
  * @OA\OpenApi(
  *     @OA\Info(
  *         version="1.0.0",
- *         title="Grandway Admin panel",
- *         description="Grandway admin REST API documentation",
+ *         title="Test Admin panel",
+ *         description="Admin REST API documentation",
  *         termsOfService="http://swagger.io/terms/",
  *         @OA\Contact(
  *             email="administarator@grandway.loc"
@@ -18,7 +18,7 @@ use yii\rest\Controller;
  *     ),
  *     @OA\Server(
  *         description="OpenApi host",
- *         url="http://admin2.grandway.loc"
+ *         url="http://admin.test.loc"
  *     ),
  *     security={{"bearerAuth": {}}},
  *     @OA\Tag(
